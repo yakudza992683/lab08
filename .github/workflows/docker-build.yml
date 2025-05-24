@@ -29,5 +29,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: mursulov/lab08:latest
+          tags: yakudza992683/lab08:latest
 
